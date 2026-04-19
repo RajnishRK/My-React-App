@@ -1,10 +1,10 @@
 {
-  "homepage":"https://github.com/RajnishRK/My-React-App.git"
+  "homepage":"https://github.com/RajnishRK/My-React-App.git",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview",
+    "preview": "vite preview",
     "deploy":"gh-pages -d dist"
   },
   "dependencies": {
